@@ -1,10 +1,12 @@
 # Hey viewer I am GHOSTRIDER☠️
 <img src="https://github.com/Mastermindtxt/Mastermindtxt/blob/main/Galery/mastermind.png">
-___
-**!Known as Mastermindtxt too.**
+
+---
+**!Also Known as Mastermindtxt too.**
 
 > **currently working on**
 > - Miss roxy (A advance telegram bot)
+
 
 > **Future plans.**
 > - Making roxy more advance.
@@ -22,8 +24,8 @@ ___
 
 ---
 ### Some of my repo is written below.
-> 1. [MISS_ROXY_SOURCE_STRUCTURE](https://github.com/Mastermindtxt/bootanimation_bot) 
-> 2.[SERVER_ROXY_REPO](https://github.com/Mastermindtxt/Miss_roxy_working) 
+> 1. [MISS_ROXY_SOURCE_STRUCTURE](https://github.com/Mastermindtxt/bootanimation_bot)
+> 2. [SERVER_ROXY_REPO](https://github.com/Mastermindtxt/Miss_roxy_working) 
 
 ---
 # Stats stuff (cuz looks cool)
