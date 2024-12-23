@@ -1,8 +1,8 @@
-# Hey viewer I am GHOSTRIDER☠️
+# Hey viewer I am MASTERMINDTXT☠️
 <img src="https://github.com/Mastermindtxt/Mastermindtxt/blob/main/Galery/mastermind.png">
 
 ---
-**!Also Known as Mastermindtxt too.**
+**!Also Known as FUSION_SPIRITE too.**
 
 > **currently working on**
 > - Miss roxy (A advance telegram bot)
