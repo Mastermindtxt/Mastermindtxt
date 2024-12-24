@@ -6,6 +6,7 @@
 
 > **currently working on**
 > - Miss roxy (A advance telegram bot)
+> - Thinking to teach about telegram bots and python online on platforms like YouTube, telegram and Instagram. 
 
 
 > **Future plans.**
