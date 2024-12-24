@@ -5,7 +5,7 @@
 **!Also Known as FUSION_SPIRITE too.**
 
 > **currently working on**
-> - Miss roxy (A advance telegram bot)
+> - Miss roxy (An advance telegram bot)
 > - Thinking to teach about telegram bots and python online on platforms like YouTube, telegram and Instagram. 
 
 
