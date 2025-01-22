@@ -2,14 +2,15 @@
 <img src="https://github.com/Mastermindtxt/Mastermindtxt/blob/main/Galery/mastermind.png">
 
 ---
-**!Also Known as FUSION_SPIRITE too.**
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Proto.io](https://img.shields.io/badge/Proto.io-161637?style=for-the-badge&logo=proto.io&logoColor=00e5ff) ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c)
+
 
 > **currently working on**
-> - Miss roxy (An advance telegram bot)
-> - Thinking to teach about telegram bots and python online on platforms like YouTube, telegram and Instagram. 
-
+> - My study's cause it's exam time 
 
 > **Future plans.**
+> - Making Miss roxy (telegram bot)
 > - Making roxy more advance.
 > - Adding more features.
 > - Thinking to make my own roxy app in future ☠️.
@@ -31,9 +32,29 @@
 ---
 # Stats stuff (cuz looks cool)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=mastermindtxt&show_icons=true&theme=onedark&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=Mastermindtxt&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
 
 
+# 📊 Current languages useage:
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mastermindtxt&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Mastermindtxt&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Mastermindtxt&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Mastermindtxt&icon=5&color=2)](https://visitcount.itsvg.in)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Mastermindtxt&theme=radical&hide_border=false)<br/>
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
 **Mastermindtxt/Mastermindtxt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
