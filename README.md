@@ -7,13 +7,11 @@
 
 
 > **currently working on**
-> - My study's cause it's exam time 
+> - Web-Dev Community Project.
 
 > **Future plans.**
-> - Deploying My website on Github.
-> - Making Miss roxy (telegram bot)
-> - Making roxy more advance.
-> - Adding more features.
+> - Growing the community
+> - Deploying Miss Roxy Bot Project
 > - Thinking to make my own roxy app in future ☠️.
 >
 > - basically plans of mine is cool 😎👍. 
@@ -31,23 +29,11 @@
 > 2. [frames_extractor](https://github.com/Mastermindtxt/video-to-Frames-converter) 
 
 ---
-# Stats stuff (cuz looks cool)
-
-![](https://github-readme-stats.vercel.app/api?username=Mastermindtxt&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
-
 
 # 📊 Current languages useage:
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mastermindtxt&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Mastermindtxt&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=Mastermindtxt&icon=5&color=2)](https://visitcount.itsvg.in)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Mastermindtxt&theme=radical&hide_border=false)<br/>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
