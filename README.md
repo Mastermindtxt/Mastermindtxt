@@ -11,8 +11,8 @@
 > - ***NOTE*** : I am learning japanese cause i want to pass N4 level japanese test.
 
 ## MY SOCIAL MEDIA LINKS 📎
-> - **TELEGRAM** : [FUSION-SPIRITE](t.me/fusion_spirite)
-> - **LINKEDIN** : [TANISHQ-SAXENA](www.linkedin.com/in/tanishqfromindo)
+> - **TELEGRAM** : [FUSION-SPIRITE](https://t.me/fusion_spirite)
+> - **LINKEDIN** : [TANISHQ-SAXENA](https://www.linkedin.com/in/tanishqfromindo)
 
 ## STUDY LEVEL 📓
 > - PASSED 12th STANDERD RECENTLY.
