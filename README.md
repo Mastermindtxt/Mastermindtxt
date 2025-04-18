@@ -4,7 +4,7 @@
 
 ## MY SKILLS ⚔️
 > - **Languages** : HTML, CSS, JS, NODEJS, SHELL/BASH SCRIPT, FFMPEG
-> - **Platforms** : CANVA, PICSART
+> - **Platforms** : CANVA, PICSART, VSCODE, CURSOR AI
 
 ## CURRENTLY WHAT I AM LEARNING 📝
 > - **learning** : NODEJS, JAPANESE [*Hiragana , Katakana , Kanji*].
