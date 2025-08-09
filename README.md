@@ -20,7 +20,7 @@
 > - BCA ( COMPUTER SCIRNCE )
 
 ## THE PROJECTS I AM WORKING ON 🧾
-> - MY PORTFOLIO WEBSITE. : [CHECK HERE](https://github.com/Mastermindtxt/MY-PORTFOLIO)
+> - MY PORTFOLIO WEBSITE. : [CHECK HERE](https://mastermindtxt.github.io/tepp)
 > - FRAME EXTRACTOR (OSP). : [CHECK HERE](https://github.com/Mastermindtxt/video-to-Frames-converter)
 
 ---
